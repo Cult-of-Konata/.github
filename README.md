@@ -1,5 +1,5 @@
 HELLOOOOO!!! Welcome to Cult of Konata!!! 
-________________________________________________
+_________________________________________________
 This is the offical GitHub org of the Cult of Konata Discord server.
 This is used to store the the code for KonaCraft.
 
